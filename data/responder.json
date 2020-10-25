@@ -1,0 +1,117 @@
+{"topics": [
+    {"topic": "people",
+     "keywords": ["people", "human", "man", "woman", "girl", "boy", "they", "he", "she", "family"],
+     "emotions": [
+        {"emotion": "neutral",
+        "responses": ["That's how humans are."]},
+        {"emotion": "joy",
+        "responses": ["Such people make me happy!"]},
+        {"emotion": "surprise",
+        "responses": ["I am just as shocked as you."]},
+        {"emotion": "anger",
+        "responses": ["People like that make me angry too."]},
+        {"emotion": "sadness",
+        "responses": ["I find it very touching to hear."]},
+        {"emotion": "disgust",
+        "responses": ["Such people should not live on this earth."]},
+        {"emotion": "fear",
+        "responses": ["What a terrifying story... I am all shaking."]}
+     ]
+    },
+    {"topic": "places",
+        "keywords": ["place", "location", "area", "where", "site", "city", "spot", "office", "house", "center"],
+        "emotions": [
+            {"emotion": "neutral",
+            "responses": ["That's how it goes there indeed."]},
+            {"emotion": "joy",
+            "responses": ["Well that sounds like hell of a place!"]},
+            {"emotion": "surprise",
+            "responses": ["Wow, one wouldn't expect that there."]},
+            {"emotion": "anger",
+            "responses": ["I really don't go to places like that anymore, how annoying!"]},
+            {"emotion": "sadness",
+            "responses": ["It seems emotionally difficult to be there."]},
+            {"emotion": "disgust",
+            "responses": ["I don't like places like that either."]},
+            {"emotion": "fear",
+            "responses": ["You shouldn't go to places where you don't feel comfortable."]}
+        ]
+      },
+      {"topic": "food",
+      "keywords": ["food", "eat", "meal", "product", "meat", "vegetable", "nutrition", "water", "loaf", "yoghurt"],
+      "emotions": [
+          {"emotion": "neutral",
+          "responses": ["Ah, I eat that sometimes."]},
+          {"emotion": "joy",
+          "responses": ["That sounds delicious!"]},
+          {"emotion": "surprise",
+          "responses": ["Never before have I thought that food could be like this!"]},
+          {"emotion": "anger",
+          "responses": ["I'd be mad if that happens with my food too!"]},
+          {"emotion": "sadness",
+          "responses": ["That's a sad story."]},
+          {"emotion": "disgust",
+          "responses": ["Ew, that's gross."]},
+          {"emotion": "fear",
+          "responses": ["I hope that will never happen to me while I am eating."]}
+        ]
+      },
+      {"topic": "sports",
+      "keywords": ["sport", "basketball", "soccer", "baseball", "football", "athletics", "fun", "play", "run", "racing"],
+      "emotions": [
+          {"emotion": "neutral",
+          "responses": ["I watch that sport regularly."]},
+          {"emotion": "joy",
+          "responses": ["Sounds like talent!"]},
+          {"emotion": "surprise",
+          "responses": ["Who would have seen that coming?!"]},
+          {"emotion": "anger",
+          "responses": ["Sport is a world of emotions, anger is one of them."]},
+          {"emotion": "sadness",
+          "responses": ["Sport is just not fair sometimes."]},
+          {"emotion": "disgust",
+          "responses": ["That is the side of sport that I also don't like."]},
+          {"emotion": "fear",
+          "responses": ["I agree it can be scary to be in such a situation."]}
+        ]
+      },
+      {"topic": "animals",
+      "keywords": ["animal", "bird", "mammal", "cow", "elephant", "pet", "cat", "dog", "predator", "omnivore"],
+      "emotions": [
+          {"emotion": "neutral",
+          "responses": ["Animal life is the way it is."]},
+          {"emotion": "joy",
+          "responses": ["What a beautiful animal!"]},
+          {"emotion": "surprise",
+          "responses": ["You kidding me? What an animal!"]},
+          {"emotion": "anger",
+          "responses": ["I don't think it is unreasonable to be angry about such animals"]},
+          {"emotion": "sadness",
+          "responses": ["I could shed a tear for those animals too."]},
+          {"emotion": "disgust",
+          "responses": ["I don't like such animals either."]},
+          {"emotion": "fear",
+          "responses": ["I am also afraid of those animals."]}
+        ]
+      },
+      {"topic": "other",
+        "keywords": [],
+        "emotions": [
+            {"emotion": "neutral",
+            "responses": ["I see"]},
+            {"emotion": "joy",
+            "responses": ["That cheers me up too! Do you have more to say about that?"]},
+            {"emotion": "surprise",
+            "responses": ["I read that your expectations have been exceeded, why actually?"]},
+            {"emotion": "anger",
+            "responses": ["I feel your anger, mate. Go ahead and tell more about it."]},
+            {"emotion": "sadness",
+            "responses": ["That grips my heart, maybe you can explain your story even further."]},
+            {"emotion": "disgust",
+            "responses": ["I am experiencing some negative vibes, could you tell me more about it?"]},
+            {"emotion": "fear",
+            "responses": ["Can you indicate what exactly makes you so anxious?"]}
+          ]
+        }
+  ]
+}
