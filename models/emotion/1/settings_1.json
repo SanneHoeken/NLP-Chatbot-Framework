@@ -1,0 +1,1 @@
+{"modelnr": 1, "classifier": "svm", "representations": "embedding", "frequency_threshold": 4, "embedding_model": "glove-wiki-gigaword-300", "dimensions": 300, "stopwords": true, "balance_data": false}

@@ -1,0 +1,1 @@
+{"modelnr": 1, "model": "embedding", "embedding_model": "glove-wiki-gigaword-300", "filter_text": true, "neighborhood": 10, "processing": "tokenize", "hyponyms": null, "hypernyms": null, "measure": "embedding_model", "threshold": 1.0}

@@ -1,0 +1,1 @@
+{"modelnr": 4, "classifier": "svm", "representations": "embedding", "frequency_threshold": 4, "embedding_model": "glove-twitter-200", "dimensions": 200, "stopwords": true, "balance_data": true}

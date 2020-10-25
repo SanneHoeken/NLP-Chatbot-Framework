@@ -1,0 +1,1 @@
+{"modelnr": 3, "classifier": "svm", "representations": "embedding", "frequency_threshold": 4, "embedding_model": "word2vec-google-news-300", "dimensions": 300, "stopwords": true, "balance_data": true}
