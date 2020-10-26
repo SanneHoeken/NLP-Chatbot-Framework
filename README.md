@@ -42,13 +42,13 @@ The following list describes the most important folders and files in the project
   ``
   python train_test_emotionmodel.py
   ``
-  The user-friendly program will ask you to enter the desired settings. After the execution of the program, the model with a classification report and settings is saved under models.
+  The user-friendly program will ask you to enter the desired settings. After the execution of the program, the model with a classification report and settings are saved under models.
 2. **Setting up and testing a topic classification model.**
   This program can be run by calling:
   ``
   python test_topicmodel.py
   ``
-  The user-friendly program will ask you to enter the desired settings. After the execution of the program, the model with a classification report and the settings is saved under models.
+  The user-friendly program will ask you to enter the desired settings. After the execution of the program, the model with a classification report and the settings are saved under models.
 3. **Testing four chatbot systems.**
   This program can be run by calling:
   ``
